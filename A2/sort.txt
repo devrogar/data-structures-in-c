@@ -1,0 +1,7 @@
+a
+d
+e
+g
+h
+v
+Running time: 0.000000 sec
